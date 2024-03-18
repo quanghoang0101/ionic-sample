@@ -1,0 +1,7 @@
+{
+  "name": "SpotNews",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
