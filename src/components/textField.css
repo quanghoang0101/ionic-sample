@@ -1,0 +1,23 @@
+.roundedInput {
+    --border-color: #F9FCFE;
+    --border-radius: 3px;
+    --border-width: 1px;
+    --box-shadow: 2px gray;
+    --highlight-height: 0;
+    --background: #F9FCFE;
+}
+
+.inputInactive {
+    color: #999;
+    font-weight: normal;
+}
+
+.inputActive {
+    color: #1A1A1A;
+    font-weight: 500;
+}
+
+.inputIcon {
+    width: 22px;
+    height: 22px;
+}
